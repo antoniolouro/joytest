@@ -37,13 +37,7 @@ Em seu **looping infinito** é executado:
 
 • Processa o evento do botão A para ligar/desligar os LEDs vermelho e azul;
 
-• Atualiza o display
-
-    Limpar o display;
-    
-    Desenhar o quadrado que representa o joystick;
-    
-    Desenhar a borda.
+• Atualiza o display: Limpar o display; Desenhar o quadrado que representa o joystick; Desenhar a borda.
 
 
 A **função callback** realiza as seguintes tarefas:
@@ -59,7 +53,10 @@ A **função callback** realiza as seguintes tarefas:
 Os flags setados serão testados na main(), para executar as tarefas disparadas por pressionamento de botões.
 
 
+
 ## Vídeo demonstrativo
 
+
+[![Assista no YouTube](https://img.youtube.com/vi/iUD0vo06on8/maxresdefault.jpg)](https://youtu.be/iUD0vo06on8)
 
 
