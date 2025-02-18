@@ -3,10 +3,15 @@
 ## Tarefa Aula Síncrona de 10/02/2025 - Objetivo: Compreender o ADC do RP204 (Pico-w). 
 
 **A tarefa combina diferentes componentes da placa BitDogLab, são eles**:
+
 • LED RGB;
+
 • Botão do Joystick (GPIO22);
+
 • Joystick conectado aos GPIOs 26 e 27;
+
 • Botão A (GPIO5);
+
 • Display SSD1306;
 • Módulo PWM;
 • Módulo ADC;
